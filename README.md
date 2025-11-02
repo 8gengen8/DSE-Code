@@ -1,10 +1,8 @@
-This is a document designed to guide users in using our simulation code accompanying our paper **Distributed State Estimation with Two Event-triggered Communication Strategies via Internet of Underwater Things**, which is submitted to IEEE IoTJ. The readers can refer to <u>Algorithm 1</u> in the paper for algorithm design details.
+This is a document designed to guide users in using our simulation code accompanying our paper **Distributed State Estimation with Two Event-triggered Communication Strategies via Internet of Underwater Things**, which is recently accepted by IEEE IoTJ. The readers can refer to <u>Algorithm 1</u> in the paper for algorithm design details.
 
 ***
 
 # 1. how to use the code?
-
-      There are four sub category named simply after "SubCode", namely SubCode1, SubCode2, SubCode3 and SubCode4.
 
 ## 1.1 SubCode1
 
